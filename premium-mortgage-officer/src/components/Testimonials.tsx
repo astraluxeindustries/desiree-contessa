@@ -5,7 +5,7 @@ import { Button } from './ui/Button';
 export const Testimonials = () => {
   const reviews = [
     {
-      text: "Sarah made the impossible possible. We had a complicated income situation, but she navigated it with ease. We are now in our dream home thanks to her!",
+      text: "Desiree made the impossible possible. We had a complicated income situation, but she navigated it with ease. We are now in our dream home thanks to her!",
       author: "Michael & Jessica T.",
       type: "First-Time Buyers"
     },
