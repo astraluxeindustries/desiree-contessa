@@ -37,6 +37,7 @@ export const Contact = () => {
                   <Mail className="w-5 h-5" />
                 </div>
                 <div>
+                  <div className="min-w-0">
                   <p className="text-sm text-slate-500 font-medium uppercase tracking-wide">Email</p>
                   <a href="mailto:desiree.contessa@patriothomemortgage.com" className="text-lg font-semibold text-slate-900 hover:text-blue-700 transition-colors">
                     desiree.contessa@patriothomemortgage.com
